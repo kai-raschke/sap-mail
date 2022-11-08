@@ -1,0 +1,22 @@
+{
+  "name": "btp-mail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sap-cloud-sdk/connectivity": "^2.10.0",
+    "@sap-cloud-sdk/mail-client": "^2.10.0",
+    "@sap/xsenv": "^3.4.0",
+    "@sap/xssec": "^3.2.14",
+    "body-parser": "^1.20.1",
+    "email-templates": "^10.0.1",
+    "handlebars": "^4.7.7",
+    "mjml": "^4.13.0",
+    "passport": "^0.6.0"
+  }
+}
