@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@sap-cloud-sdk/connectivity": "^2.10.0",
     "@sap-cloud-sdk/mail-client": "^2.10.0",
